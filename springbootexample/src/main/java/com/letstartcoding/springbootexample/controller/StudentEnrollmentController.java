@@ -20,8 +20,8 @@ import com.letstartcoding.springbootexample.model.Student;
 import com.letstartcoding.springbootexample.service.StudentService;
 
 @Controller
-
 public class StudentEnrollmentController {
+	
 	
 	 @Autowired
 	private StudentService studentService;
